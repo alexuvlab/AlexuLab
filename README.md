@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm AI Builder 👋
 
-<!--
-**SupaNexus-ai/SupaNexus-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring AI tools, LLM APIs, and developer workflows.
 
-Here are some ideas to get you started:
+I enjoy testing new AI products, experimenting with different workflows, and sharing practical notes from my experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Areas I'm Exploring
+
+- Large Language Model (LLM) APIs
+- OpenAI-compatible API ecosystems
+- AI developer tools
+- Automation workflows
+- AI infrastructure
+
+---
+
+## 🧪 Current Experiments
+
+- Comparing different AI tools and workflows
+- Testing LLM API integrations
+- Exploring developer productivity solutions
+
+---
+
+## 🛠 Tools & Platforms
+
+Some tools and platforms I've explored:
+
+- OpenAI-compatible API services
+- AI coding assistants
+- LLM developer frameworks
+- AI infrastructure platforms
+
+---
+
+## 📌 Notes
+
+I share my experiences building with AI and discovering useful tools for developers.
