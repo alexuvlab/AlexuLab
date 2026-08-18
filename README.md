@@ -1,40 +1,32 @@
-# Hi, I'm AI Builder 👋
+# SupaNexus-ai
 
-Exploring AI tools, LLM APIs, and developer workflows.
+A collection of experiments around AI tools, LLM APIs and developer workflows.
 
-I enjoy testing new AI products, experimenting with different workflows, and sharing practical notes from my experiments.
+## About
 
----
+SupaNexus-ai explores practical experiments with:
 
-## 🔍 Areas I'm Exploring
-
-- Large Language Model (LLM) APIs
-- OpenAI-compatible API ecosystems
-- AI developer tools
+- LLM APIs
+- AI agents
+- MCP servers
 - Automation workflows
-- AI infrastructure
 
----
 
-## 🧪 Current Experiments
+## Projects
 
-- Comparing different AI tools and workflows
-- Testing LLM API integrations
-- Exploring developer productivity solutions
+### SupaNexus-ai
 
----
+Experiments and notes for building AI-powered workflows.
 
-## 🛠 Tools & Platforms
 
-Some tools and platforms I've explored:
+## Tech Stack
 
-- OpenAI-compatible API services
-- AI coding assistants
-- LLM developer frameworks
-- AI infrastructure platforms
+- OpenAI-compatible APIs
+- Python
+- MCP
+- Developer tools
 
----
 
-## 📌 Notes
+## Notes
 
-I share my experiences building with AI and discovering useful tools for developers.
+Sharing practical experiments, workflows and learnings.overing useful tools for developers.
