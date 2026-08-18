@@ -10,23 +10,32 @@ SupaNexus-ai is a personal AI exploration project focused on practical experimen
 - AI agents
 - MCP servers
 - Automation workflows
+- Developer tools
 
+## Repository Structure
 
-## Projects
+```text
+SupaNexus-ai
+│
+├── examples
+│   └── LLM API examples and experiments
+│
+├── notes
+│   └── Research notes and learning records
+│
+└── README.md
+```
+## Examples
 
-### AI Workflow Experiments
-
-Exploring ways to build useful AI-powered workflows and developer tools.
-
-
-## Tech Stack
-
-- OpenAI-compatible APIs
-- Python
-- MCP
-- AI developer tools
-
+- [LLM API Demo](examples/llm-api-demo.md)
 
 ## Notes
 
-Sharing experiments, workflows and practical notes from building with AI.
+This repository records experiments, workflows and ideas while exploring AI development tools.
+
+## Currently Exploring
+
+- LLM application development
+- AI agent workflows
+- MCP ecosystem
+- Developer automation
