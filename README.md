@@ -51,6 +51,21 @@ Topics include:
 
 More experiments will be added over time.
 
+### MCP Memory Write Verification
+
+One small Node.js sketch from a recent MCP debugging note. It keeps a tool call
+separate from a confirmed storage write: `remember` returns a record ID from the
+storage layer, retries only the failed write with the same idempotency key, then
+reads the record back.
+
+Run it with a recent Node.js version:
+
+```bash
+node examples/mcp-memory-write-verification.js
+```
+
+See [the example](examples/mcp-memory-write-verification.js).
+
 ---
 
 ## Notes
